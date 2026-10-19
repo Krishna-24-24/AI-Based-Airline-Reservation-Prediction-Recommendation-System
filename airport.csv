@@ -1,0 +1,49 @@
+airport_code,airport_name,city,country
+MAA,Chennai International Airport,Chennai,India
+DEL,Indira Gandhi International Airport,Delhi,India
+BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,India
+BLR,Kempegowda International Airport,Bengaluru,India
+HYD,Rajiv Gandhi International Airport,Hyderabad,India
+CCU,Netaji Subhas Chandra Bose International Airport,Kolkata,India
+GOI,Manohar International Airport,Goa,India
+COK,Cochin International Airport,Kochi,India
+AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India
+PNQ,Pune Airport,Pune,India
+JAI,Jaipur International Airport,Jaipur,India
+LKO,Chaudhary Charan Singh International Airport,Lucknow,India
+TRV,Trivandrum International Airport,Thiruvananthapuram,India
+IXC,Chandigarh International Airport,Chandigarh,India
+IXM,Madurai Airport,Madurai,India
+IXB,Bagdogra Airport,Siliguri,India
+SIN,Singapore Changi Airport,Singapore,Singapore
+DXB,Dubai International Airport,Dubai,UAE
+DOH,Hamad International Airport,Doha,Qatar
+LHR,Heathrow Airport,London,United Kingdom
+CDG,Charles de Gaulle Airport,Paris,France
+FRA,Frankfurt Airport,Frankfurt,Germany
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands
+JFK,John F. Kennedy International Airport,New York,USA
+LAX,Los Angeles International Airport,Los Angeles,USA
+SFO,San Francisco International Airport,San Francisco,USA
+ORD,O'Hare International Airport,Chicago,USA
+SEA,Seattle-Tacoma International Airport,Seattle,USA
+HND,Haneda Airport,Tokyo,Japan
+NRT,Narita International Airport,Tokyo,Japan
+ICN,Incheon International Airport,Seoul,South Korea
+BKK,Suvarnabhumi Airport,Bangkok,Thailand
+KUL,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia
+SYD,Sydney Airport,Sydney,Australia
+MEL,Melbourne Airport,Melbourne,Australia
+FCO,Leonardo da Vinci–Fiumicino Airport,Rome,Italy
+ZRH,Zurich Airport,Zurich,Switzerland
+IST,Istanbul Airport,Istanbul,Türkiye
+CAI,Cairo International Airport,Cairo,Egypt
+JNB,O. R. Tambo International Airport,Johannesburg,South Africa
+CPT,Cape Town International Airport,Cape Town,South Africa
+NBO,Jomo Kenyatta International Airport,Nairobi,Kenya
+GRU,São Paulo/Guarulhos International Airport,São Paulo,Brazil
+MEX,Mexico City International Airport,Mexico City,Mexico
+YYZ,Toronto Pearson International Airport,Toronto,Canada
+YVR,Vancouver International Airport,Vancouver,Canada
+PEK,Beijing Capital International Airport,Beijing,China
+PVG,Shanghai Pudong International Airport,Shanghai,China

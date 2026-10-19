@@ -1,0 +1,25 @@
+{
+  "recommendation": {
+    "model_name": "hybrid_score",
+    "model_version": "recommendation_v1.0",
+    "training_date": "2026-10-10T12:12:53Z",
+    "dataset_size": 2609,
+    "metrics": {
+      "Precision@3": 0.3275,
+      "Recall@3": 0.9825,
+      "NDCG@3": 0.9019900312589337,
+      "MAP@3": 0.87375,
+      "HitRate@3": 0.9825,
+      "Precision@5": 0.2,
+      "Recall@5": 1.0,
+      "NDCG@5": 0.909417311648121,
+      "MAP@5": 0.8780000000000001,
+      "HitRate@5": 1.0,
+      "Precision@10": 0.1,
+      "Recall@10": 1.0,
+      "NDCG@10": 0.909417311648121,
+      "MAP@10": 0.8780000000000001,
+      "HitRate@10": 1.0
+    }
+  }
+}
